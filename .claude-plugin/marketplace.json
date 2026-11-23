@@ -1,0 +1,12 @@
+{
+  "name": "claude-koi-pond-cat-theme",
+  "owner": { "name": "WillO-OlliW" },
+  "description": "An animated koi pond and black cat theme for Claude.",
+  "plugins": [
+    {
+      "name": "koi-pond",
+      "source": "./",
+      "description": "An animated koi pond theme for Claude: koi circle a black cat, as an ink painting by day or night, a watercolor, or a painted pond."
+    }
+  ]
+}
